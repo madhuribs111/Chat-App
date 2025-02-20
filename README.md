@@ -23,9 +23,9 @@ To run this project, you will need to add the following environment variables to
 `JWT_SECRET`
 
 
-## Demo
+## Live Project
 
-https://drive.google.com/file/d/1KxL_GDsvrkrZF2WdnyzLPkjAsfpqNhno/view?usp=share_link
+https://chat-app-i7ud.onrender.com/
 
 
 ## Run Locally
